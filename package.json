@@ -1,13 +1,13 @@
 {
 name: "hookstest",
-version: "1.0.0",
+version: "1.0.1",
 description: "Hooks test",
 author: "Luka Jerkovic",
 license: "MIT",
 
 dependencies: {
 husky: "*",
-lodash: "*",
+lodash: "*"
 },
 repository: {
 type: "git",
