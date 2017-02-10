@@ -1,19 +1,19 @@
 {
-name: "hookstest",
-version: "1.0.1",
-description: "Hooks test",
-author: "Luka Jerkovic",
-license: "MIT",
+  "name:" "hookstest",
+  "version:" "1.0.1",
+  "description:" "Hooks test",
+  "author:" "Luka Jerkovic",
+  "license:" "MIT",
 
-dependencies: {
-husky: "*",
-lodash: "*"
-},
-repository: {
-type: "git",
-url: "https://github.com/jerkovicl/hookstest"
-},
-scripts: {
-install: "npm prune"
-}
+  "dependencies:" {
+  "husky:" "*",
+  "lodash:" "*"
+  },
+  "repository:" {
+  "type:" "git",
+  "url:" "https://github.com/jerkovicl/hookstest"
+  },
+  "scripts:" {
+  "install:" "npm prune"
+  }
 }
